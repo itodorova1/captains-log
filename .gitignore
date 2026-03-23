@@ -1,0 +1,19 @@
+# Security
+.env
+credentials.json
+*service_account*.json
+*_key.json
+
+# Python Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+
+# User PDFs
+*.pdf
